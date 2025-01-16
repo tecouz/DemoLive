@@ -12,3 +12,17 @@ C:\Users\tecni\OneDrive\Documents\cours\DevOps\DemoLive\obj\Debug\net7.0\refint\
 C:\Users\tecni\OneDrive\Documents\cours\DevOps\DemoLive\obj\Debug\net7.0\DemoLive.pdb
 C:\Users\tecni\OneDrive\Documents\cours\DevOps\DemoLive\obj\Debug\net7.0\DemoLive.genruntimeconfig.cache
 C:\Users\tecni\OneDrive\Documents\cours\DevOps\DemoLive\obj\Debug\net7.0\ref\DemoLive.dll
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.AssemblyInfoInputs.cache
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.AssemblyInfo.cs
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.csproj.CoreCompileInputs.cache
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.dll
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\refint\DemoLive.dll
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.pdb
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\bin\Debug\net7.0\DemoLive.exe
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\bin\Debug\net7.0\DemoLive.deps.json
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\bin\Debug\net7.0\DemoLive.runtimeconfig.json
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\bin\Debug\net7.0\DemoLive.dll
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\bin\Debug\net7.0\DemoLive.pdb
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\DemoLive.genruntimeconfig.cache
+C:\Users\tecni\OneDrive\Documents\GitHub\DemoLive\DemoLive\obj\Debug\net7.0\ref\DemoLive.dll

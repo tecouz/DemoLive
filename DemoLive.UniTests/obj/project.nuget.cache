@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWZATz8fy6LBv/DBLJJ5rEw84tqLh7ugw6ZVDraLby8TBd9k4Q6jPLqFSCTMJ5X4iUFBMFbrKpvmBE15mJs3vg==",
+  "dgSpecHash": "fwnmwJQKgsZMuIfjtyGPzxFqmqJd0PqLzu8u16Cctxb7SJjugi/AUuuoWQO2kf/db215KHndeUazqt6iwjcohQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tecni\\OneDrive\\Documents\\cours\\DevOps\\DemoLive.UniTests\\DemoLive.UniTests.csproj",
+  "projectFilePath": "C:\\Users\\tecni\\OneDrive\\Documents\\GitHub\\DemoLive\\DemoLive.UniTests\\DemoLive.UniTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tecni\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\tecni\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
